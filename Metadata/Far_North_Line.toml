@@ -1,0 +1,15 @@
+rly_file = "Far_North_Line.rly"
+ttb_files = [ "Far_North_Line_2026-03-04.ttb",]
+img_files = [ "Far_North_Line.bmp",]
+doc_files = [ "Far_North_Line.md",]
+release_date = "2026-03-03"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2026
+display_name = "Far North Line"
+name = "Far North Line"
+signal_position = "left"
+author = "Oxalin1"
+contributors = []
